@@ -1,6 +1,6 @@
 /* LIOR AVADYAYEV
 --------------------------------------------------------------------------------
-This code implements an movement alarm
+This code implements a movement alarm
 To turn ON the alarm we will click on the button
 the alarm will turn on the led and the buzzer anytime there will be a movement
 to turn OFF the alarm we will click the button again
